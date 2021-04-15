@@ -157,4 +157,7 @@ wn.mainloop()
 
 
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/19922440/114878405-e3943500-9e08-11eb-8790-7012529a594a.png)
+
+
+
